@@ -1,5 +1,5 @@
 # DevOpsCourse
-![DevOps RoadMap](./DevOps Rodmap.png)
+![DevOps RoadMap](./DevOpsRodmap.png)
 
 Links For Learning DevOPS
 Certainly! Here's the same information formatted as a README file:
